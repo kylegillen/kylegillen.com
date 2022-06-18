@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Personal blog of Kyle Gillen',
   author: 'Kyle Gillen',
   headerTitle: 'Kyle Gillen',
-  description: 'Musings on all things React & React Native.',
+  description: 'Musings on all things React Native.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://kylegillen.com',
